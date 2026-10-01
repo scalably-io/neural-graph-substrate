@@ -1,0 +1,20 @@
+{
+  "title": "Is the graph doing anything? A sourced survey of recurrent self-routing neural graphs as an alternative to layered networks",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Lazić, Pavle",
+      "affiliation": "ScalablyAI"
+    }
+  ],
+  "license": "Apache-2.0",
+  "keywords": [
+    "graph neural networks",
+    "looped transformers",
+    "algorithmic reasoning",
+    "adaptive computation",
+    "survey",
+    "preregistration"
+  ],
+  "description": "Sourced survey with a public quote-per-claim evidence ledger on whether a persistent, self-routing recurrent graph of neural nodes gives more reasoning capacity per stored parameter than a weight-shared looped Transformer, plus a preregistered matched experimental protocol (not run). Built with AI agents; see README."
+}
