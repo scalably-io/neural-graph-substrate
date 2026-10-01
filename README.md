@@ -24,6 +24,7 @@ Every number in the note is filled by `paper/build_paper.py` (from claim quotes,
 | `evidence/claims.csv` | The ledger: every claim with source URL, locator, verbatim quote, status and date, merged from `evidence/research/` by `scripts/validate_evidence.py`. Downloaded sources are not redistributed; every row is re-fetchable from its URL. |
 | `evidence/matrix.csv` | 121 approaches, each answering fourteen fixed questions (partly filled; unknowns are marked). |
 | `evidence/coverage.csv` | The data behind Figure 1, with the claim IDs each cell rests on. |
+| `docs/QUESTION.md` | Why we did this and the questions we asked ourselves. |
 | `docs/SYNTHESIS.md` | The longer internal synthesis the note was condensed from. |
 | `docs/PREREGISTRATION.md` | The proposed experiment (draft, six open items), with `ngs/` (task generators with exact solvers, step budget, compute model, statistics). |
 | `docs/DERIVATIONS.md` | Every formula with the test that pins it. |
