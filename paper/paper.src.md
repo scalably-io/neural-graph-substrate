@@ -8,7 +8,7 @@ Built with AI, disclosed in full: the survey, evidence ledger, analysis and this
 
 **Question.** Can a persistent recurrent graph of neural nodes, which shares one message and one update function, rewires itself from its own state at every step, and computes by evolving until it halts, give more reasoning capacity per stored parameter than a Transformer, because the same weights are reused in different graph configurations?
 
-**Method.** A quote-per-claim evidence ledger of {{n_claims}} citable claims from {{n_workstreams}} research workstreams across twenty neural-network families, a {{n_approaches}}-row matrix answering fourteen fixed questions per approach, {{n_reviews}} rounds of adversarial review by fresh-context AI reviewers that were allowed to reverse our conclusions, and a dedicated prior-art search in Transformer vocabulary.
+**Method.** A quote-per-claim evidence ledger of {{n_claims}} citable claims from {{n_workstreams}} research workstreams across twenty neural-network families, a {{n_approaches}}-row matrix answering fourteen fixed questions per approach, {{n_reviews_total}} adversarial reviews by fresh-context AI reviewers from two model families, which were allowed to reverse our conclusions, and a dedicated prior-art search in Transformer vocabulary.
 
 **Answers.**
 1. Against a fixed-depth Transformer, per stored parameter: recurrence helps (looped language models report {{ouro_lo}} to {{ouro_hi}} times parameter efficiency against other teams' models trained on different data, R2-016; a controlled study puts looping a block r times at about r to the power {{phi}} distinct blocks, R4-185), but no cited evidence tests whether the graph adds to that, and a weight-shared looped Transformer already has it.

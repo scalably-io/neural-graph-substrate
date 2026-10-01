@@ -53,6 +53,7 @@ V.update(n_claims=str(sum(v for k, v in by.items() if k != "ACCESS-FAILED")), n_
                                 if not p.name.endswith("-matrix.csv") and "review-additions" not in p.name])),
          n_blockers=str(sum(len(re.findall(r"^### B\d", p.read_text(), re.M)) for p in (ROOT / "docs/reviews").glob("R*-opus.md"))),
          n_reviews=str(len(list((ROOT / "docs/reviews").glob("R*-opus.md")))),
+         n_reviews_total=str(len(list((ROOT / "docs/reviews").glob("*.md")))),
          n_negative=str(sum(1 for l in (ROOT / "docs/NEGATIVE-FINDINGS.md").read_text().splitlines() if l.startswith("| 20"))),
          q10_unknown=str(sum(1 for r in MATRIX if r["q10_more_iterations_help"].strip().lower().startswith("unknown"))),
          q10_na=str(sum(1 for r in MATRIX if r["q10_more_iterations_help"].strip().lower().startswith(("n/a", "na")))))
