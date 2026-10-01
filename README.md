@@ -1,6 +1,10 @@
 # Is the graph doing anything?
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23091811.svg)](https://doi.org/10.5281/zenodo.23091811)
+
 **A sourced survey of recurrent self-routing neural graphs as an alternative to layered networks.** Report SR-2026-006 by Pavle Lazić (Scalably). Research note `paper/paper.md`; Figure 1 `figures/coverage.svg`.
+
+Archived on Zenodo: v0.5.0 is https://doi.org/10.5281/zenodo.23091812; https://doi.org/10.5281/zenodo.23091811 always resolves to the latest version.
 
 The question: can a persistent recurrent graph of neural nodes that rewires itself from its own state at every step give more reasoning capacity per stored parameter than a Transformer? The short answer: recurrence helps, a looped Transformer already has that, most parts of the design are published separately (no system in our scoring has more than seven of thirteen), and the one open question is narrow. We publish a preregistration-ready protocol for it, not results.
 

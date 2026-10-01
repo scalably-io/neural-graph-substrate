@@ -38,7 +38,8 @@ def table(header, rows) -> str:
 
 
 V: dict[str, str] = {}
-V["version"] = "v0.1 (draft)"
+V["version"] = "v0.5"
+V["doi"] = "10.5281/zenodo.23091812"  # Zenodo archive of release v0.5.0 (concept DOI for all versions: 10.5281/zenodo.23091811)
 V["date"] = "2026-10-01"                # pinned: a rebuild on another day reproduces the same note
 
 # --- the ledger itself ---

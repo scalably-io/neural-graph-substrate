@@ -1,6 +1,6 @@
 # Is the graph doing anything? A sourced survey of recurrent self-routing neural graphs as an alternative to layered networks
 
-SR-2026-006 · Scalably research note · {{version}} · {{date}} · Pavle Lazić (Scalably)
+SR-2026-006 · Scalably research note · {{version}} · {{date}} · Pavle Lazić (Scalably) · code and data: https://github.com/scalably-io/neural-graph-substrate · archived: https://doi.org/{{doi}}
 
 Built with AI, disclosed in full: the survey, evidence ledger, analysis and this note were produced by Claude Opus 5.5 agents (Anthropic), directed by Pavle Lazić, and reviewed by fresh-context Claude Opus 5.5 reviewers and by GPT-6 Astra (OpenAI) as a second model family. It has not yet been reviewed by human experts. No experiments were run; every number below is a value reported by a cited source or computed from one.
 
