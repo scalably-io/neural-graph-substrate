@@ -11,5 +11,5 @@ T(n) = max(4, ceil(1.5 × q99 of required steps)) over 1000 instances, seed 0 (D
 | associative_recall | 16 → 72 · 23 → 104 · 32 → 144 · 45 → 203 · 64 → 288 · 91 → 410 · 128 → 576 · 181 → 815 · 256 → 1152 |
 | automaton | 16 → 24 · 23 → 35 · 32 → 48 · 45 → 68 · 64 → 96 · 91 → 137 · 128 → 192 · 181 → 272 · 256 → 384 · 362 → 543 · 512 → 768 |
 
-Maze rungs above side 17 use 300 instances (cost); every other cell uses 1000. Maze sides are odd by construction: 9, 13, 17, 25, 33.
+Maze rungs above side 17 use 300 instances (cost); every other cell uses 1000. Maze sides chosen: 9, 13, 17, 25, 33.
 Small non-monotonicities between adjacent rungs (e.g. reachability) are q99 sampling noise and are kept as generated, not smoothed.

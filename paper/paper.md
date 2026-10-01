@@ -145,7 +145,7 @@ We publish, but did not run, a preregistration-ready protocol (`docs/PREREGISTRA
 
 ## 8. Negative findings, including our own errors
 
-The project log records 38 reversals and errors, each with its evidence. The most consequential:
+The project log records 42 reversals and errors, each with its evidence. The most consequential:
 
 - Our first draft said the evidence leaned against the design; its citations compared looped with non-looped Transformers, not graph with looped. We now say the question is open.
 - We first believed the mechanism we wanted to test (soft attention spreading thin as problems grow) was ours to test; it is a published theorem with cheaper fixes.
