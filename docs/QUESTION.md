@@ -8,4 +8,4 @@
 3. Which parts of the design are already published, and is anything genuinely open?
 4. What is the smallest matched experiment that would settle the open part, and how could it fail?
 
-**Scope.** Ordinary digital hardware only (GPU, TPU, CPU): no quantum, biological or neuromorphic substrates, and no agent systems. Every claim had to be backed by a primary source with a quote, and the answer had to be allowed to come out negative.
+**Scope.** Ordinary digital hardware (GPU, TPU, CPU). Every claim had to be backed by a primary source with a quote, and the answer had to be allowed to come out negative.

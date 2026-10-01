@@ -21,7 +21,7 @@ Built with AI, disclosed in full: the survey, evidence ledger, analysis and this
 
 ## 2. The question and its scope
 
-The brief asked for graph-native architectures on ordinary digital hardware only (GPU, TPU, CPU): no quantum, biological or neuromorphic substrates, and no agent systems. The candidate has 13 components, labelled C1 to C13 in Figure 1: persistent node states, a sparse directed graph, a shared message function, a shared update function, recurrent evolution over many steps, learned top-k routing or edge creation, hyperedges, topology conditioned on the current state, persistent associative memory, readouts attached to many graph regions, a confidence or convergence signal, learned adaptive halting, and topology and node roles that evolve during computation.
+The brief asked for graph-native architectures on ordinary digital hardware (GPU, TPU, CPU). The candidate has 13 components, labelled C1 to C13 in Figure 1: persistent node states, a sparse directed graph, a shared message function, a shared update function, recurrent evolution over many steps, learned top-k routing or edge creation, hyperedges, topology conditioned on the current state, persistent associative memory, readouts attached to many graph regions, a confidence or convergence signal, learned adaptive halting, and topology and node roles that evolve during computation.
 
 We separate two kinds of capacity, because the evidence treats them differently. Computational capacity is the size or difficulty of problem a model can solve; recurrence can plausibly raise it. Knowledge storage is what a model memorises; one controlled study finds recurrence does not raise it (Section 4.3).
 
