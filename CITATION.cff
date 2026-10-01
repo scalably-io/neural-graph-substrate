@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this survey, ledger or protocol, please cite it."
+title: "Is the graph doing anything? A sourced survey of recurrent self-routing neural graphs as an alternative to layered networks"
+version: "0.5.0"
+date-released: "2026-10-01"
+license: Apache-2.0
+repository-code: "https://github.com/scalably-io/neural-graph-substrate"
+url: "https://scalably.io/research/neural-graph-substrate"
+authors:
+  - family-names: "Lazić"
+    given-names: "Pavle"
+    affiliation: "Scalably"
+keywords: [looped transformers, graph neural networks, sparse attention, neural algorithmic reasoning, recurrent depth]

@@ -1,0 +1,16 @@
+system,basis,C1,C1_ids,C2,C2_ids,C3,C3_ids,C4,C4_ids,C5,C5_ids,C6,C6_ids,C7,C7_ids,C8,C8_ids,C9,C9_ids,C10,C10_ids,C11,C11_ids,C12,C12_ids,C13,C13_ids
+Looped Transformer family (union of several papers),R2 dossier (b),?,,N,,Y,R7-003,Y,R7-003,Y,R2-007;R2-018,N,,N,,?,,N,,?,,Y,R2-013,Y,R2-003;R2-020,?,
+LT2 looped sparse attention (2026),R7 rows,?,,P,R7-002,Y,R7-003,Y,R7-003,Y,R7-003,Y,R7-002,?,,P,R7-002,?,,?,,?,,?,,?,
+ReSSFormer (2025),R6 rows,Y,R6-029,Y,R6-007;R6-033,Y,R6-029,Y,R6-029,Y,R6-006;R6-029,Y,R6-007,?,,Y,R6-007,P,R6-031,?,,?,,?,,P,R6-030
+Mixture-of-Recursions,R2 dossier (b),?,,?,,?,,?,,Y,R2-022,P,R2-025,N,,P,R2-022,N,,N,,N,,?,,P,R2-025
+HRM / TRM recursive reasoning,R2 dossier (b),?,,N,R2-038,?,,Y,R2-039,Y,R2-034,N,,N,,N,,N,,?,,P,R2-032,Y,R2-032;R2-044,N,
+N2 recurrent graph network (2024),R1 dossier (b),Y,R1-067,P,R1-067,Y,R1-067;R1-068,Y,R1-067,Y,R1-067,P,R1-067,N,,P,R1-067,N,,N,,N,,N,,P,R1-067
+Co-GNN,R1 dossier (b),P,R1-059,P,R1-060,P,R1-061,N,,N,,P,R1-059,N,,Y,R1-059,N,,N,,N,,N,,P,R1-059
+IterGNN,R1 dossier (b),?,,?,,?,,?,,Y,R1-022;R1-023,N,,N,,N,,N,,N,,P,R1-022,Y,R1-022,N,
+Discrete NAR (2024),R6 rows,?,,P,R6-011,?,,?,,Y,R6-010,P,R6-010,?,,P,R6-010,?,,?,,?,,?,,?,
+Pointer Graph Networks / NEE,R4 dossier (b),?,,P,R4-016,?,,?,,?,,P,R4-016,?,,P,R4-016;R4-021,?,,?,,?,,?,,P,R4-016;R4-021
+Continuous Thought Machine,R3 dossier (b),Y,R3-098;R3-161,N,R3-098,P,R3-161,N,R3-098,Y,R3-099,N,,N,,P,R3-161,N,,P,R3-099;R3-161,Y,R3-099,P,R3-111,N,
+Energy Transformer,R3 dossier (b),Y,R3-011,N,R3-011,Y,R3-011,Y,R3-011;R3-015,Y,R3-011,N,,N,,P,R3-011,Y,R3-015,N,,Y,R3-012,?,,N,
+Graph Neural Cellular Automata,R3 dossier (b),Y,R3-089,Y,R3-089,Y,R3-089,Y,R3-089,Y,R3-089,N,,N,,N,,N,,N,,N,,N,,N,
+Set-to-hypergraph recurrent refiner,"R1 rows (orchestrator, review N1 B5)",Y,R6-034,?,,Y,R6-035;R6-036,Y,R6-035,Y,R1-164;R6-035,?,,Y,R1-164,Y,R6-034,?,,?,,?,,?,,P,R6-034
+DyHSL learned hypergraph,"R1 rows (orchestrator, review N1 B5)",?,,?,,?,,?,,?,,?,,Y,R1-109,?,,?,,?,,?,,?,,?,
